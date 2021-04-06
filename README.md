@@ -1,4 +1,4 @@
-# <div align="center"> Clone da página de login do Instagram </div>
+# Clone da página de login do Instagram
 
 Utilizado os conceitos de CSS Flexbox e layout responsivo.
 
