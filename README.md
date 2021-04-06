@@ -1,6 +1,7 @@
 # <div align="center"> Clone da página de login do Instagram </div>
 
 Utilizado os conceitos de CSS Flexbox e layout responsivo.
+
 Projeto realizado no Bootcamp HTML Developer - Digital Innovation One.
 
 
